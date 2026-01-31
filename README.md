@@ -27,7 +27,7 @@ The cleaned dataset represents multi-year global sales transactions across multi
 Key Highlights:
 - Total Rows: ~500,000
 - Time Period: Multiple Years (2019–2024)
-- Coverage: Maximum countries across global regions.
+- Coverage: Multiple countries across global regions.
 - Data Type: Sales, Profit, Operations, and Customer Metrics.
 
 ➤ The dataset was **Cleaned, Processed, Standardized, and Optimized for analysis and visualization**.
@@ -174,5 +174,3 @@ Yash Sonar
 BBA Student | Aspiring Data Analyst
 
 -----
-
-
