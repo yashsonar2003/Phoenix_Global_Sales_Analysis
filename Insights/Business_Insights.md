@@ -9,7 +9,7 @@ https://public.tableau.com/views/PhoenixGlobalSalesDashboard/PhoenixGlobalSalesA
 
 # Business Insights & Strategic Recommendations:-
 
-# Executive Summary:-
+### Executive Summary:-
 Phoenix Electronic and Service Pvt Ltd has delivered strong global performance, generating **$421M in Total Revenue, $127M in Total Profit, and maintaining a healthy 30.2% Profit Margin over multiple years**.
 Sales growth has remained stable across regions and product categories, reflecting a well-diversified business model.
 However, **operational inefficiencies and a relatively high loss rate** continue to present key improvement opportunities.
@@ -18,7 +18,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Revenue Insights:-
+### Revenue Insights:-
 - Revenue shows a consistent upward trend from **2019 to 2024**, indicating stable business growth.
 - Peak revenue observed in **2020 and post-2022 years**, reflecting strong market recovery and expansion.
 - Monthly revenue peaks around **mid-year (July - August)**, suggesting seasonal demand surges.
@@ -32,7 +32,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Customer Behavior Insights:-
+### Customer Behavior Insights:-
 - Average Customer Rating remains around **3.0 out of 5**, showing moderate satisfaction.
 - Slight fluctuations suggest customers are neutral - **Neither Highly Satisfied Nor Dissatisfied**.
 - No major improvement in trend is observed over months, highlighting the need for **better customer experience initiatives**.
@@ -41,7 +41,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Geographic Insights:-
+### Geographic Insights:-
 - Revenue Distribution across **Countries is Well Diversified**, reducing regional risk.
 
 - Top Revenue-Generating Countries:
@@ -58,7 +58,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Operational Insights:-
+### Operational Insights:-
 - **Average Delivery Time is stable around 7.5 days**, showing operational consistency.
 - However, **Loss Rate remains High at 34.7%**, which is a major profitability concern.
 - Loss Rate fluctuates monthly, peaking above **35% in some periods**.
@@ -67,7 +67,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Product & Pricing Behavior Insights:-
+### Product & Pricing Behavior Insights:-
 - **Revenue Category Distribution is almost equal across products**, indicating balanced demand.
 
 - Highest Profit By Product:
@@ -83,7 +83,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Business Challenges Identified:-
+### Business Challenges Identified:-
 
 - High Operational **Loss Rate 34.7%**.
 - Moderate Customer Satisfaction Levels **Avg Rating ~3.0**.
@@ -93,7 +93,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Strategic Recommendations:-
+### Strategic Recommendations:-
 - Optimize Discount Strategy:
 1) Reduce heavy discount campaigns.
 2) Introduce targeted promotions instead of blanket offers.
@@ -117,7 +117,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Expected Business Impact:-
+### Expected Business Impact:-
 - Reduction in **Operational Losses by 10–15%**
 - Improved **Profit Margin Beyond 30%**.
 - Higher Customer Satisfaction Scores.
@@ -126,7 +126,7 @@ Phoenix Electronic and Service Pvt Ltd can further enhance **profitability, stre
 
 -----
 
-# Conclusion:-
+### Conclusion:-
 Phoenix Electronic and Service Pvt Ltd demonstrates strong global revenue growth driven by diversified products and well-balanced sales channels.
 However, **High Operational Loss Rates, Moderate Customer Satisfaction Levels, and Aggressive Discounting Strategies** are limiting the company’s full profit potential.
 **By optimizing Pricing Approaches, Strengthening Operational Efficiency, and Focusing on High-Margin Product Segments**, Phoenix Electronic and Service Pvt can significantly improve overall profitability and customer loyalty.
