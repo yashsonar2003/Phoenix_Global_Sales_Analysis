@@ -1,6 +1,6 @@
 # Phoenix Global Sales Analysis
 
-### Company Name: Phoenix Electronic and Service Pvt Ltd
+# Company Name: Phoenix Electronic and Service Pvt Ltd
 
 ### Tableau Public Dashboard Link:-
 https://public.tableau.com/views/PhoenixGlobalSalesDashboard/PhoenixGlobalSalesAnalysisBusinessStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
